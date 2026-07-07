@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <title>AWS Face Recognition Attendance System</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>AWS Face Recognition Attendance System</h1>
+
+    <p>
+        Cloud-based attendance management using
+        AWS Rekognition,
+        S3,
+        DynamoDB,
+        and SNS.
+    </p>
+
+    <div class="buttons">
+
+        <button onclick="registerEmployee()">
+            Register Employee
+        </button>
+
+        <button onclick="recognizeEmployee()">
+            Mark Attendance
+        </button>
+
+        <button onclick="loadAttendance()">
+            Attendance Records
+        </button>
+
+    </div>
+
+    <hr>
+
+    <div id="output">
+
+        System Ready...
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,6 @@
+boto3
+opencv-python
+numpy
+pandas
+requests
+python-dateutil

@@ -211,14 +211,14 @@ python backend/attendance_system.py
 ![Geo Fencing](geofencing1.png)
 
 
-## Geo-Fencing Alert
+## Recognised with emotion detection
 
-![Geo Fencing Alert](geofencing2.png)
+![Recognised with emotion detection](emotiondetection.png)
 
 
 ## Unknown Face Detection
 
-![Unknown Face Detection](unknownfacedetected.png)
+![Unknown Face Detection](unknownfacedetectedunregistered.png)
 
 # Demo Video
 

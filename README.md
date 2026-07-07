@@ -162,15 +162,15 @@ python backend/attendance_system.py
 
 ---
 
-## S3 Objects
+## Registered Objects in S3
 
-![Objects](screenshots/objects.png)
+![Objects Registered](screenshots/objects reg.png)
 
 ---
 
-## Registered Images
+## Captured Objects in S3
 
-![Registered Objects](screenshots/objects%20reg.png)
+![Objects](screenshots/objects.png)
 
 ---
 
@@ -180,57 +180,57 @@ python backend/attendance_system.py
 
 ---
 
-## Employees Table
+## Employee Table
 
-![Employee Table](screenshots/emp%20table.png)
+![Employee Table](screenshots/emp table.png)
 
 ---
 
 ## Attendance Table
 
-![Attendance Table](screenshots/attendance%20table.png)
+![Attendance Table](screenshots/attendance table.png)
 
 ---
 
-## Register Employee
+## Register an Employee
 
-![Register Employee](screenshots/register%20an%20employee.png)
+![Register Employee](screenshots/register an employee.png)
 
 ---
 
 ## Captured Image
 
-![Captured Image](screenshots/image%20captured.png)
+![Captured Image](screenshots/image captured.png)
 
 ---
 
-## Attendance Recognition
+## Attendance First Attempt
 
-![Attendance](screenshots/attendance%20first%20attempt.png)
-
----
-
-## Duplicate Attendance Prevention
-
-![Duplicate](screenshots/duplicate%20attendance.png)
+![Attendance First Attempt](screenshots/attendance first attempt.png)
 
 ---
 
-## Geo-fencing Validation
+## Duplicate Attendance
 
-![Geo1](screenshots/geo%20fencing%20(1).png)
+![Duplicate Attendance](screenshots/duplicate attendance.png)
 
 ---
 
-## Geo-fencing Alert
+## Geo Fencing
 
-![Geo2](screenshots/geo%20fencing%20(2).png)
+![Geo Fencing](screenshots/geo fencing (1).png)
+
+---
+
+## Geo Fencing Alert
+
+![Geo Fencing Alert](screenshots/geo fencing (2).png)
 
 ---
 
 ## Unknown Face Detection
 
-![Unknown Face](screenshots/unknown%20face%20detected(unregistered).png)
+![Unknown Face](screenshots/unknown face detected(unregistered).png)
 
 
 # Demo Video

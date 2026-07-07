@@ -160,77 +160,65 @@ python backend/attendance_system.py
 
 ![Amazon S3](screenshots/amazons3.png)
 
----
 
 ## Registered Objects in S3
 
-![Objects Registered](screenshots/objects%20reg.png)
+![Registered Objects](screenshots/objects%20reg.png)
 
----
 
 ## Captured Objects in S3
 
-![Objects](screenshots/objects.png)
+![Captured Objects](screenshots/objects.png)
 
----
 
 ## Amazon DynamoDB
 
-![AmazonDB](screenshots/amazondb.png)
+![Amazon DynamoDB](screenshots/amazondb.png)
 
----
 
 ## Employee Table
 
 ![Employee Table](screenshots/emp%20table.png)
 
----
 
 ## Attendance Table
 
 ![Attendance Table](screenshots/attendance%20table.png)
 
----
 
-## Register an Employee
+## Register Employee
 
 ![Register Employee](screenshots/register%20an%20employee.png)
 
----
 
 ## Captured Image
 
 ![Captured Image](screenshots/image%20captured.png)
 
----
 
-## Attendance First Attempt
+## First Attendance Attempt
 
 ![Attendance First Attempt](screenshots/attendance%20first%20attempt.png)
 
----
 
-## Duplicate Attendance
+## Duplicate Attendance Attempt
 
 ![Duplicate Attendance](screenshots/duplicate%20attendance.png)
 
----
 
-## Geo Fencing
+## Geo-Fencing Validation
 
 ![Geo Fencing](screenshots/geo%20fencing%20(1).png)
 
----
 
-## Geo Fencing Alert
+## Geo-Fencing Alert
 
 ![Geo Fencing Alert](screenshots/geo%20fencing%20(2).png)
 
----
 
 ## Unknown Face Detection
 
-![Unknown Face](screenshots/unknown%20face%20detected(unregistered).png)
+![Unknown Face Detection](screenshots/unknown%20face%20detected%28unregistered%29.png)
 
 
 # Demo Video

@@ -218,7 +218,7 @@ python backend/attendance_system.py
 
 ## Unknown Face Detection
 
-![Unknown Face Detection](unknownfacedetectedunregistered.png)
+![Unknown Face Detection](unknownfacedetected(unregistered).png
 
 # Demo Video
 

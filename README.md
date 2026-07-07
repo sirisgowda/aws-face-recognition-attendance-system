@@ -158,68 +158,67 @@ python backend/attendance_system.py
 
 ## Amazon S3 Bucket
 
-![Amazon S3](screenshots/amazons3.png)
+![Amazon S3](amazons3.png)
 
 
 ## Registered Objects in S3
 
-![Registered Objects](screenshots/objects%20reg.png)
+![Registered Objects](objectsreg.png)
 
 
 ## Captured Objects in S3
 
-![Captured Objects](screenshots/objects.png)
+![Captured Objects](objects.png)
 
 
 ## Amazon DynamoDB
 
-![Amazon DynamoDB](screenshots/amazondb.png)
+![Amazon DynamoDB](amazondb.png)
 
 
 ## Employee Table
 
-![Employee Table](screenshots/emp%20table.png)
+![Employee Table](emptable.png)
 
 
 ## Attendance Table
 
-![Attendance Table](screenshots/attendance%20table.png)
+![Attendance Table](attendancetable.png)
 
 
 ## Register Employee
 
-![Register Employee](screenshots/register%20an%20employee.png)
+![Register Employee](registeranemployee.png)
 
 
 ## Captured Image
 
-![Captured Image](screenshots/image%20captured.png)
+![Captured Image](imagecaptured.png)
 
 
 ## First Attendance Attempt
 
-![Attendance First Attempt](screenshots/attendance%20first%20attempt.png)
+![Attendance First Attempt](attendancefirstattempt.png)
 
 
 ## Duplicate Attendance Attempt
 
-![Duplicate Attendance](screenshots/duplicate%20attendance.png)
+![Duplicate Attendance](duplicateattendance.png)
 
 
 ## Geo-Fencing Validation
 
-![Geo Fencing](screenshots/geo%20fencing%20(1).png)
+![Geo Fencing](geofencing1.png)
 
 
 ## Geo-Fencing Alert
 
-![Geo Fencing Alert](screenshots/geo%20fencing%20(2).png)
+![Geo Fencing Alert](geofencing2.png)
 
 
 ## Unknown Face Detection
 
-![Unknown Face Detection](screenshots/unknown%20face%20detected%28unregistered%29.png)
-
+![Unknown Face Detection](unknownfacedetected.png)
 
 # Demo Video
 

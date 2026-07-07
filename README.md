@@ -225,7 +225,7 @@ python backend/attendance_system.py
 A walkthrough of the project implementation and attendance workflow:
 
 - 🎥 Part 1: https://www.loom.com/share/dfeec5f74e984d71b1141cc8dc4c969b
-- 🎥 Part 2: https://www.loom.com/share/a6c63367173240b0874b0f8f397cbd39
+- 🎥 Part 2 (Continuation of Part 1): https://www.loom.com/share/a6c63367173240b0874b0f8f397cbd39
 ---
 
 # My Contribution

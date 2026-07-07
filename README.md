@@ -164,7 +164,7 @@ python backend/attendance_system.py
 
 ## Registered Objects in S3
 
-![Objects Registered](screenshots/objects reg.png)
+![Objects Registered](screenshots/objects%20reg.png)
 
 ---
 
@@ -182,55 +182,55 @@ python backend/attendance_system.py
 
 ## Employee Table
 
-![Employee Table](screenshots/emp table.png)
+![Employee Table](screenshots/emp%20table.png)
 
 ---
 
 ## Attendance Table
 
-![Attendance Table](screenshots/attendance table.png)
+![Attendance Table](screenshots/attendance%20table.png)
 
 ---
 
 ## Register an Employee
 
-![Register Employee](screenshots/register an employee.png)
+![Register Employee](screenshots/register%20an%20employee.png)
 
 ---
 
 ## Captured Image
 
-![Captured Image](screenshots/image captured.png)
+![Captured Image](screenshots/image%20captured.png)
 
 ---
 
 ## Attendance First Attempt
 
-![Attendance First Attempt](screenshots/attendance first attempt.png)
+![Attendance First Attempt](screenshots/attendance%20first%20attempt.png)
 
 ---
 
 ## Duplicate Attendance
 
-![Duplicate Attendance](screenshots/duplicate attendance.png)
+![Duplicate Attendance](screenshots/duplicate%20attendance.png)
 
 ---
 
 ## Geo Fencing
 
-![Geo Fencing](screenshots/geo fencing (1).png)
+![Geo Fencing](screenshots/geo%20fencing%20(1).png)
 
 ---
 
 ## Geo Fencing Alert
 
-![Geo Fencing Alert](screenshots/geo fencing (2).png)
+![Geo Fencing Alert](screenshots/geo%20fencing%20(2).png)
 
 ---
 
 ## Unknown Face Detection
 
-![Unknown Face](screenshots/unknown face detected(unregistered).png)
+![Unknown Face](screenshots/unknown%20face%20detected(unregistered).png)
 
 
 # Demo Video
